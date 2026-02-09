@@ -47,3 +47,37 @@ PUT THIS CODE IN INDEX
 
 </body>
 </html>
+
+        ABOUT HTML 
+        <!DOCTYPE html>
+<html>
+<head>
+<title>About Us</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="choir.html">Choir</a>
+<a href="events.html">Events</a>
+<a href="service.html">Service</a>
+<a href="recordings.html">Church Recordings</a>
+<a href="giving.html">Giving</a>
+</nav>
+
+<div class="section">
+<h2>About Bukoto Mobilizing Team</h2>
+<p>
+Bukoto Mobilizing Team exists to raise believers who actively spread the Gospel,
+disciple nations, and mobilize communities for the Kingdom of God.
+</p>
+<p>
+Our mission is built on Mark 16:15:  
+<b>“Go into all the world and preach the gospel to every creature.”</b>
+</p>
+</div>
+
+</body>
+</html>
