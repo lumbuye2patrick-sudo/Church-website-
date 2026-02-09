@@ -123,3 +123,39 @@ Our mission is built on Mark 16:15:
 
 </body>
 </html>      
+         EVENTS.html
+  <!DOCTYPE html>
+<html>
+<head>
+<title>Events</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="choir.html">Choir</a>
+<a href="events.html">Events</a>
+<a href="service.html">Service</a>
+<a href="recordings.html">Church Recordings</a>
+<a href="giving.html">Giving</a>
+</nav>
+
+<div class="section">
+<h2>Ibanda District Gospel Crusade – Western Uganda</h2>
+
+<p>
+The Bukoto Mobilizing Team carried out a powerful gospel crusade in Ibanda District,
+Western Uganda, with the central theme drawn from Mark 16:15:
+<b>“Go into all the world and preach the gospel to every creature.”</b>
+</p>
+
+<p>
+This mission included worship, prayer, evangelism, and teaching. Many souls were touched,
+healed, and led to Christ. The choir and team ministered with boldness and love.
+</p>
+</div>
+
+</body>
+</html>.       
