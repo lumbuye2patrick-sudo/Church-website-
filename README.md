@@ -337,4 +337,9 @@ nav a{
 .list span:hover{
     transform:translateX(20px);
 }
+    SCRIPT js
+function showMessage(msg){
+    alert(msg);
+}    
 
+    
