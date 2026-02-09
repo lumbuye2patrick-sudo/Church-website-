@@ -81,3 +81,45 @@ Our mission is built on Mark 16:15:
 
 </body>
 </html>
+        CHOIR.html
+  <!DOCTYPE html>
+<html>
+<head>
+<title>Choir & Instrumentalists</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="choir.html">Choir</a>
+<a href="events.html">Events</a>
+<a href="service.html">Service</a>
+<a href="recordings.html">Church Recordings</a>
+<a href="giving.html">Giving</a>
+</nav>
+
+<div class="section">
+<h2>Choir Members</h2>
+<div class="list">
+<span>Mrs. Ndiwalana Faridah</span>
+<span>Mrs. Ann Mirembe</span>
+<span>Mr. Kibuli</span>
+<span>Ms. Sandra</span>
+<span>Tr. Vicky</span>
+<span>Ms. Merchulate</span>
+<span>Abby Naluwembe</span>
+</div>
+
+<h2>Instrumentalists</h2>
+<div class="list">
+<span><b>Main:</b> Simeon Patrick</span>
+<span>Billy Mark</span>
+<span>Kabanda Stephen</span>
+<span>Mayanja Joel</span>
+</div>
+</div>
+
+</body>
+</html>      
