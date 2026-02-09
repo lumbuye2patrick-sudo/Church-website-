@@ -158,4 +158,36 @@ healed, and led to Christ. The choir and team ministered with boldness and love.
 </div>
 
 </body>
-</html>.       
+</html>.      
+         SERVICE.html
+         
+<!DOCTYPE html>
+<html>
+<head>
+<title>Services</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="choir.html">Choir</a>
+<a href="events.html">Events</a>
+<a href="service.html">Service</a>
+<a href="recordings.html">Church Recordings</a>
+<a href="giving.html">Giving</a>
+</nav>
+
+<div class="section">
+<h2>Sunday Service</h2>
+<p>🕚 11:00 AM – 1:30 PM</p>
+<p>Time of worship, teaching, and fellowship according to Mark 16:15.</p>
+
+<h2>Wednesday Service (Q&A Night)</h2>
+<p>🕡 6:30 PM – 8:35 PM</p>
+<p>Members ask questions, and the pastor answers from the Bible, forming the day's teaching.</p>
+</div>
+
+</body>
+</html>
