@@ -224,3 +224,36 @@ function showOops(){
 
 </body>
 </html>  
+
+          GIVING.html
+    <!DOCTYPE html>
+<html>
+<head>
+<title>Giving</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="choir.html">Choir</a>
+<a href="events.html">Events</a>
+<a href="service.html">Service</a>
+<a href="recordings.html">Church Recordings</a>
+<a href="giving.html">Giving</a>
+</nav>
+
+<div class="section" style="text-align:center;">
+<h2>Give Your Offertory or Seed</h2>
+
+<input type="text" placeholder="Your Name" style="padding:8px;width:250px;"><br><br>
+<input type="text" placeholder="Phone Number" style="padding:8px;width:250px;"><br><br>
+<input type="text" placeholder="Purpose (Offertory/Seed)" style="padding:8px;width:250px;"><br><br>
+
+<button class="button">Submit</button>
+</div>
+
+</body>
+</html>      
+
