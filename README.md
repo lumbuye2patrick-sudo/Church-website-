@@ -191,3 +191,36 @@ healed, and led to Christ. The choir and team ministered with boldness and love.
 
 </body>
 </html>
+        RECORDING.html
+      <!DOCTYPE html>
+<html>
+<head>
+<title>Church Recordings</title>
+<link rel="stylesheet" href="style.css">
+<script>
+function showOops(){
+    alert("Oops, sorry the recordings are not yet posted.");
+}
+</script>
+</head>
+<body>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="choir.html">Choir</a>
+<a href="events.html">Events</a>
+<a href="service.html">Service</a>
+<a href="recordings.html">Church Recordings</a>
+<a href="giving.html">Giving</a>
+</nav>
+
+<div class="section" style="text-align:center;">
+<h2>Church Recordings</h2>
+<button class="button" onclick="showOops()">Sunday Recordings</button>
+<br><br>
+<button class="button" onclick="showOops()">Wednesday Recordings</button>
+</div>
+
+</body>
+</html>  
