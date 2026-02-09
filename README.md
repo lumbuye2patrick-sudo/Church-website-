@@ -253,7 +253,88 @@ function showOops(){
 
 <button class="button">Submit</button>
 </div>
-
+     STYLE CSs
 </body>
 </html>      
+
+body{
+    margin:0;
+    font-family:'Permanent Marker', cursive;
+    background:black;
+    color:goldenrod;
+}
+
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:15px 30px;
+    background:black;
+    border-bottom:2px solid orange;
+}
+
+nav a{
+    color:orange;
+    text-decoration:none;
+    margin:0 10px;
+    font-weight:bold;
+}
+
+.hero{
+    text-align:center;
+    padding:40px;
+}
+
+.section{
+    padding:30px;
+}
+
+.ticker-container{
+    width:100%;
+    overflow:hidden;
+    background:orange;
+    color:black;
+    padding:10px 0;
+}
+
+.ticker{
+    display:inline-block;
+    white-space:nowrap;
+    animation:moveTicker 12s linear infinite;
+}
+
+@keyframes moveTicker{
+    from{transform:translateX(100%);}
+    to{transform:translateX(-100%);}
+}
+
+.button{
+    padding:10px 15px;
+    background:orange;
+    color:black;
+    border:none;
+    cursor:pointer;
+    transition:0.4s;
+}
+
+.button:hover{
+    transform:translateY(-5px);
+    background:gold;
+}
+
+.list{
+    background:teal;
+    padding:15px;
+}
+
+.list span{
+    display:block;
+    margin:5px 0;
+    transition:0.5s;
+    cursor:pointer;
+}
+
+.list span:hover{
+    transform:translateX(20px);
+}
 
